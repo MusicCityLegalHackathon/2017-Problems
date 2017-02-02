@@ -13,8 +13,7 @@ Legal Nonprofits can use the form below to brainstorm potential challenges.
 
 ### List View
 
-<iframe src="
-https://drive.google.com/embeddedfolderview?id=0B2_n24wFabFCeXo3cmNkOUlhSlk#list" width="700" height="500" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=0B2_n24wFabFCeXo3cmNkOUlhSlk#list" width="700" height="500" frameborder="0"></iframe>
 
 ### Grid View
 
