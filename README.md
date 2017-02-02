@@ -1,6 +1,7 @@
 # Prototype Legal Nonprofit Challenge Elicitation
 
-This is a [CIVICS.com](http://civics.com) concept flow by [Dazza Greenwood](http://dazzagreenwood.com) for http://www.mclegalhackathon.org
+* This is a [CIVICS.com](http://civics.com) concept flow by [Dazza Greenwood](http://dazzagreenwood.com) for http://www.mclegalhackathon.org
+* View a working prototype at: [https://musiccitylegalhackathon.github.io/2017-Problems(https://musiccitylegalhackathon.github.io/2017-Problems)
 
 ## Brainstorm Potential Challenges
 
