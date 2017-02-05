@@ -12,7 +12,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSeCd88k81ytpleehO1TcAw-bRy7NhCDjA0aX_DD
 
 ## Review Current Challenges
 
-* Direct link (if embedded list and/or grid views below is not displaying): [https://drive.google.com/open?id=0B2_n24wFabFCSURXdmtSWXA4WG8](https://drive.google.com/open?id=0B2_n24wFabFCSURXdmtSWXA4WG8)
+* Direct link (if embedded grid or list views below is not displaying): [https://drive.google.com/open?id=0B2_n24wFabFCSURXdmtSWXA4WG8](https://drive.google.com/open?id=0B2_n24wFabFCSURXdmtSWXA4WG8)
+
+### Grid View
+
+<iframe src="https://drive.google.com/embeddedfolderview?id=0B2_n24wFabFCSURXdmtSWXA4WG8k#grid" width="700" height="500" frameborder="0"></iframe>
+
 
 ### List View
 
@@ -20,9 +25,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSeCd88k81ytpleehO1TcAw-bRy7NhCDjA0aX_DD
 
 https://drive.google.com/embeddedfolderview?id=0B2_n24wFabFCSURXdmtSWXA4WG8#list" width="700" height="500" frameborder="0"></iframe>
 
-### Grid View
-
-<iframe src="https://drive.google.com/embeddedfolderview?id=0B2_n24wFabFCeXo3cmNkOUlhSlk#grid" width="700" height="500" frameborder="0"></iframe>
 
 # Want to Propose a Design or Prototype Solution?
 
