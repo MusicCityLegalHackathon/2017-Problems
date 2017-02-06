@@ -1,7 +1,7 @@
 **Prototype Legal Nonprofit Challenge Elicitation**
 
 * This is a [CIVICS.com](http://civics.com) concept flow by [Dazza Greenwood](http://dazzagreenwood.com) for http://www.mclegalhackathon.org
-* View a working prototype at: [https://musiccitylegalhackathon.github.io/2017-Problems](https://musiccitylegalhackathon.github.io/2017-Problems)
+* View a working prototype, which enables legal nonprofits to pose their challenges in a brainstorm round and hone the challenges at the upcoming bootcamp and in subsequent online iterations: [https://musiccitylegalhackathon.github.io/2017-Problems](https://musiccitylegalhackathon.github.io/2017-Problems) and the corresonding  form intake for potential solutions proposed for hackathon teams and/or unconference breakout groups to develop: [https://musiccitylegalhackathon.github.io/2017-Proposals](https://musiccitylegalhackathon.github.io/2017-Proposals) (note how the "proposed solutions" form is dynamically "self-updating" to reflect the then current pool of problems and challenges).
 
 # Brainstorm Potential Challenges
 
