@@ -21,11 +21,12 @@
 
 # Brainstorm Potential Hackathon & Unconference Challenges
 
-Legal Nonprofits can use the form below to brainstorm potential challenges.
+The form embedded below is a prototype.  The form demonstrates a process for legal nonprofits (pro bono and low bono organizations) to brainstorm which problems or challenges they would like teams to work on at the Music City Legal Hackathon.  Legal nonprofits are strongly encouraged to attend the Stakeholder Bootcamp on  February 25, 2017 from 9:30-12:00pm at Vanderbilt Law School to learn how to create a clear problem statement and request for proposed solutions that project teams and break-out groups can develop at the Music City Legal Hackathon and Unconference, here: http://www.mclegalhackathon.org/#bootcamps
+
 
 <iframe src="
 https://docs.google.com/forms/d/e/1FAIpQLSeCd88k81ytpleehO1TcAw-bRy7NhCDjA0aX_DDzsgE5CBXZA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-# Want to Propose a Design or Prototype Solution?
+# Propose a Design or Prototype Solution?
 
-Check out the [Music City Legal Hackers Solution Braintorm Forum](https://musiccitylegalhackathon.github.io/2017-Proposals) 
+Check out the placeholder prototype page for event attendees to propose Hackathon team projects and Unconference breakout sessions that respond to challenges posed by the legal non-profits at the Music City Legal Hackers Solution Braintorm Forum: [https://musiccitylegalhackathon.github.io/2017-Proposals](https://musiccitylegalhackathon.github.io/2017-Proposals) 
